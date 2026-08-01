@@ -2,6 +2,8 @@
 
 <div align=center>
 
+[![AIaaS      ](https://img.shields.io/badge/Artificial_Intelligence_as_a_Service-FFFFFF?style=plastic&label=ƊⱭȾɅViƧi&#x1F9FF;Ƞ&trade;&labelColor=0065FF)](https://datavision.one/)
+
 [![License    ](https://img.shields.io/badge/Apache--2.0-D22128?style=flat&logo=apache&logoColor=CB2138&label=License&labelColor=6D6E71)](https://www.apache.org/licenses/LICENSE-2.0)
 [![GitHub     ](https://img.shields.io/badge/-000000?logo=github&logoColor=FFFFFF)](https://github.com/kauefs/)
 [![Medium     ](https://img.shields.io/badge/-000000?logo=medium&logoColor=FFFFFF)](https://medium.com/@kauefs)
@@ -11,12 +13,12 @@
 </div>
 
 # ML
-Machine Learning NoteBooks
+Machine Learning NoteBooks **&** Scripts
 
 ##
 
 <div align=center>
 
-[![ƊⱭȾɅViƧi🧿Ƞ](https://img.shields.io/badge/ƊⱭȾɅViƧi&#x1F9FF;Ƞ&trade;-0065FF?style=plastic&label=&copy;2025&labelColor=0065FF)](https://datavision.one/)
+[![ƊⱭȾɅViƧi🧿Ƞ](https://img.shields.io/badge/ƊⱭȾɅViƧi&#x1F9FF;Ƞ&trade;-0065FF?style=plastic&label=&copy;2026&labelColor=0065FF)](https://datavision.one/)
 
 </div>
